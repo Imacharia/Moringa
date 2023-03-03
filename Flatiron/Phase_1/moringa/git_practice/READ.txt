@@ -1,0 +1,3 @@
+# git_practice
+you can also edit text files using nano. that is very intersting, lets see if
+if i have to use the # before text
